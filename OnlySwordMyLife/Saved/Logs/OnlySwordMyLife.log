@@ -1686,3 +1686,49 @@ FPackageName: Skipped package /Game/OnlySwordMyLife/Texsture/Sniper has a valid,
 [2025.02.24-01.48.53:132][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1743.806519
 [2025.02.24-01.48.54:131][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.24-01.48.54:131][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1744.472656, Update Interval: 314.808197
+[2025.02.24-01.55.02:857][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2113.528809
+[2025.02.24-01.55.03:857][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.24-01.55.03:857][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2114.195557, Update Interval: 314.357727
+[2025.02.24-01.55.22:913][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.02.24-01.55.22:922][721]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_MainPlayer_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainPlayer_C_0
+	Function /Game/OnlySwordMyLife/Animation/ABP_MainPlayer.ABP_MainPlayer_C:ExecuteUbergraph_ABP_MainPlayer:0A50
+[2025.02.24-01.55.22:922][721]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_1 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_MainPlayer_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainPlayer_C_0
+	Function /Game/OnlySwordMyLife/Animation/ABP_MainPlayer.ABP_MainPlayer_C:ExecuteUbergraph_ABP_MainPlayer:0B1F
+[2025.02.24-01.55.22:922][721]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_MainPlayer_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainPlayer_C_0
+	Function /Game/OnlySwordMyLife/Animation/ABP_MainPlayer.ABP_MainPlayer_C:ExecuteUbergraph_ABP_MainPlayer:0B4E
+[2025.02.24-01.55.22:922][721]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_MainPlayer_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainPlayer_C_0
+	Function /Game/OnlySwordMyLife/Animation/ABP_MainPlayer.ABP_MainPlayer_C:ExecuteUbergraph_ABP_MainPlayer:0BB1
+[2025.02.24-01.55.22:922][721]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue_2 프로퍼티를 읽으려던 중 None에 접근했습니다.
+	ABP_MainPlayer_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_MainPlayer_C_0
+	Function /Game/OnlySwordMyLife/Animation/ABP_MainPlayer.ABP_MainPlayer_C:ExecuteUbergraph_ABP_MainPlayer:0D28
+[2025.02.24-01.55.26:699][911]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.02.24-01.55.26:708][911]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.02.24-01.55.26:719][912]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.02.24-01.55.29:032][ 38]LogContentBrowser: Attempting asset rename: 새 폴더 -> Enemy
+[2025.02.24-01.55.29:032][ 38]LogContentBrowser: End creating deferred item 새 폴더
+[2025.02.24-01.55.40:074][340]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.02.24-01.55.40:082][340]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.24-01.55.40:088][340]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.24-01.55.40:113][342]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.24-01.55.48:257][770]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyBase
+[2025.02.24-01.55.48:265][770]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.24-01.55.50:630][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-01.55.50:739][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.24-01.55.51:352][896]LogSavePackage: Moving output files for package: /Game/PA_UrbanCity/Maps/Map_Post-Apocalyptic_DayLight
+[2025.02.24-01.55.51:352][896]LogSavePackage: Moving 'D:/YDS_UnrealProject/OnlySwordMyLife/Saved/Map_Post-Apocalyptic_DayLight933373A648DC9BF9CD94B5985C6BD40B.tmp' to 'D:/YDS_UnrealProject/OnlySwordMyLife/Content/PA_UrbanCity/Maps/Map_Post-Apocalyptic_DayLight.umap'
+[2025.02.24-01.55.51:376][896]LogFileHelpers: 모든 파일이 이미 저장되었습니다.
+[2025.02.24-01.55.51:376][896]LogFileHelpers: Saving map 'Map_Post-Apocalyptic_DayLight' took 0.684
+[2025.02.24-01.55.51:381][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 750.952 ms (total: 1.80 sec)
+[2025.02.24-01.55.51:424][896]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.24-01.55.51:424][896]LogContentValidation: Enabled validators:
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.24-01.55.51:424][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.24-01.55.51:425][896]AssetCheck: /Game/PA_UrbanCity/Maps/Map_Post-Apocalyptic_DayLight 에셋 유효성 검사 중
