@@ -142,7 +142,6 @@
 		{
 			"ShaderMapHash": "E1822B28E5D7F7F48673A9356651242D665A0A23",
 			"Assets": [
-				"/Game/PA_UrbanCity/Materials/MI_BrokenRoad_01",
 				"/Game/PA_UrbanCity/Materials/MI_BrokenRoad_02",
 				"/Game/PA_UrbanCity/Materials/MI_DirtySoil"
 			]
@@ -306,12 +305,8 @@
 		{
 			"ShaderMapHash": "655F5461614274D01CBBD6FC175744F5C35ADC58",
 			"Assets": [
-				"/Game/PA_UrbanCity/Materials/M_BaseMaterials",
 				"/Game/PA_UrbanCity/Materials/M_BaseMaterialsWithEmissive",
-				"/Game/PA_UrbanCity/Materials/MI_CementFloor",
-				"/Game/PA_UrbanCity/Materials/MI_RecycleBin",
-				"/Game/PA_UrbanCity/Materials/MI_StandAdPictures_Off",
-				"/Game/PA_UrbanCity/Materials/MI_TrafficBarrels"
+				"/Game/PA_UrbanCity/Materials/MI_CementFloor"
 			]
 		},
 		{
@@ -329,11 +324,6 @@
 		{
 			"ShaderMapHash": "D5F58866B95FB7A1814BC8ABD2B49D9CB1D2FA7E",
 			"Assets": [
-				"/Game/PA_UrbanCity/Materials/MI_ElectricPost_01",
-				"/Game/PA_UrbanCity/Materials/MI_ElectricPost_02",
-				"/Game/PA_UrbanCity/Materials/MI_ExteriorApartment_WindowEmissive",
-				"/Game/PA_UrbanCity/Materials/MI_Lightsource_01",
-				"/Game/PA_UrbanCity/Materials/MI_Lightsource_02",
 				"/Game/PA_UrbanCity/Materials/MI_StandAdPictures"
 			]
 		},
@@ -359,8 +349,7 @@
 			"ShaderMapHash": "1E9FB76EBE2F3C296834D16753239830C188B8F9",
 			"Assets": [
 				"/Game/CityofBrass_Enemies/Materials/Archer_Inst",
-				"/Game/CityofBrass_Enemies/Materials/Character_Substance_Layers_Material",
-				"/Game/CityofBrass_Enemies/Materials/FermaleWarrior_Inst"
+				"/Game/CityofBrass_Enemies/Materials/Character_Substance_Layers_Material"
 			]
 		},
 		{
@@ -444,8 +433,7 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
